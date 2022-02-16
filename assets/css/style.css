@@ -609,3 +609,9 @@ section.doc #doc-content pre {
         text-align: center;
     }
 }
+
+@media only screen and (max-width: 400px) {
+    .showcase-form .form-control {
+        margin: 25px 0;
+    }
+}
